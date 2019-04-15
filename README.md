@@ -1,5 +1,5 @@
 # KLTN
 MTMC
 
-run
-  python3 master.py
+run:
+        python3 master.py
